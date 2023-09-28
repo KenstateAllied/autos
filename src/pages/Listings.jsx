@@ -74,7 +74,7 @@ const Listings = () => {
               >
                 <AlertIcon boxSize='40px' mr={0} />
                 <AlertTitle mt={4} mb={1} fontSize='lg'>Error occured!</AlertTitle>
-                <AlertDescription maxWidth='sm'>Please consider using a VPN if you live in <span className='font-bold'>Syria</span> or other countires where Firebase services are blocked.</AlertDescription>
+                <AlertDescription maxWidth='sm'>Please consider using a VPN if you live in <span className='font-bold'>kenya</span> or other countires where Firebase services are blocked.</AlertDescription>
               </Alert>
           
         }

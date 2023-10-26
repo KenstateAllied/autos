@@ -81,9 +81,9 @@ export default function Footer() {
             spacing={4}
             justify={{ md: 'center' }}
             align={{ md: 'center' }}>
-            <Text>© {new Date().getFullYear()} Kenstate Allied. All rights reserved. By { ' ' }
+            <Text>© {new Date().getFullYear()} All rights reserved. By { ' ' }
               <span className='text-red-700 font-bold	'>
-                <a className='uppercase' href='https://www.kenstate-web.netlify.app'>Kenstate Group</a>
+                <a className='uppercase' href='https://www.kenstate-web.netlify.app'>KENSTATE ALLIED</a>
               </span>
             </Text>
 

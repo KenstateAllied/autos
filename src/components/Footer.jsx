@@ -29,7 +29,7 @@ export default function Footer() {
                   <Image width='40px' height='40px' src={MainLogo} />
                 </Box>
                 <Text fontSize={'sm'}>
-                  © 2023 KenstateAllied. All rights reserved
+                  © 2024 KenstateAllied. All rights reserved
                 </Text>
                 <Stack direction={'row'} spacing={6}>
                     <FaTwitter />
@@ -83,7 +83,7 @@ export default function Footer() {
             align={{ md: 'center' }}>
             <Text>© {new Date().getFullYear()} All rights reserved. By { ' ' }
               <span className='text-red-700 font-bold	'>
-                <a className='uppercase' href='https://www.kenstate-web.netlify.app'>KENSTATE ALLIED</a>
+                <a className='uppercase' href='https://www.kenstates.netlify.app'>KENSTATE ALLIED</a>
               </span>
             </Text>
 
